@@ -42,8 +42,7 @@ function submitData(e) {
   };
 
   // Send the text to the server using fetch API
-
-    // Note - here we can omit the “baseUrl” we needed in Postman and just use a relative path to “/summarize” because we will be calling the API from our Replit!  
+  
   fetch('/summarize', requestOptions)
     .then(response => response.text()) // Response will be summarized text
     .then(summary => {
