@@ -1,5 +1,3 @@
-Certainly! Here's a basic README for a website that summarizes lengthy text using the Hugging Face API:
-
 # Text Summarization Website
 
 Welcome to the Text Summarization Website! This website allows you to quickly and conveniently summarize lengthy text using the power of the Hugging Face API.
