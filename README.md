@@ -70,4 +70,4 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 - Thanks to Hugging Face for providing the powerful text summarization API.
 
-Please replace the placeholders with your specific details and make any necessary adjustments based on the actual project structure and configuration. This README provides an overview of your website's purpose, features, and how to get started with it.
+
